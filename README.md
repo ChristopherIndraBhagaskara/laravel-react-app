@@ -79,4 +79,3 @@ Throughout the development of this portfolio, I gained valuable experience and l
 -   **Backend**: Laravel version 10.32.1
 -   **Frontend**: React version 18.2.0
 -   **Database**: MySQL
-# laravel-react-app
