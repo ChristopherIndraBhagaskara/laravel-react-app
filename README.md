@@ -13,7 +13,7 @@ This is a repository for my personal portfolio built using Laravel as the backen
 2. Navigate to the project directory:
 
     ```bash
-    cd portfolio-repo
+    cd laravel-react-app
     ```
 
 3. Install dependencies using Composer for the backend and npm (or yarn) for the frontend:
